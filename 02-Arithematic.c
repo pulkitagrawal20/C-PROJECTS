@@ -11,5 +11,4 @@ void main()
     printf("The division of given numbers is %d\n", a/b);
     printf("The remainder of first by second number is %d", a%b);
 
-    getch();
 }
